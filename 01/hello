@@ -1,1 +1,7 @@
-print("Hello World");
+print("Hello World")
+#output is >>>Hello World
+
+# or you can use a variable like
+a="Hello World"
+print(a)
+#the output will be same
